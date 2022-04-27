@@ -56,10 +56,6 @@
 
 ### DOCKER COMPOSE WORKFLOW
 
-![Screen Shot 2022-04-27 at 09.36.02.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/dd08b515-66fb-40cf-90bc-756c5b9b49b3/Screen_Shot_2022-04-27_at_09.36.02.png)
-
-![Screen Shot 2022-04-27 at 09.38.17.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/62e80a4a-d413-4cae-a621-f8cbc8f07c1b/Screen_Shot_2022-04-27_at_09.38.17.png)
-
 ```jsx
 BUILD            // what folder, what service...
 ENVIRONMENT      // env variables...

@@ -1,0 +1,20 @@
+{
+  "name": "docker-for-web-developers",
+  "version": "1.0.0",
+  "description": "Official repo for Getting Started with Docker video training course by [@nigelpoulton](https://twitter.com/nigelpoulton)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nigelpoulton/gsd.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nigelpoulton/gsd/issues"
+  },
+  "homepage": "https://github.com/nigelpoulton/gsd#readme"
+}
